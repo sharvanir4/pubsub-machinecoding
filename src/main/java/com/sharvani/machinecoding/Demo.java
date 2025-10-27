@@ -60,7 +60,7 @@ public class Demo {
             }
         });
 
-        // Let demo run for 20 seconds to process messages
+        // Let demo run for 40 seconds to consume messages
         Thread.sleep(40000);
 
         // Shutdown services
