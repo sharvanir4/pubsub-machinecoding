@@ -1,15 +1,19 @@
 Requirements:
 
-Services/publishers can publish messages to topics
-Subscribers can read and process messages in a pull-based fashion
-API to create topics, publisher to write messages into them and subscribers to subscribe, consume and unsubscribe
-Maintain state of consumption of each message in each topic for each subscriber
-Maintain order of message consumption from a topic for each subscriber
+
+- Services/publishers can publish messages to topics
+- Subscribers can read and process messages in a pull-based fashion
+- API to create topics, publisher to write messages into them and subscribers to subscribe, consume and unsubscribe
+- Maintain state of consumption of each message in each topic for each subscriber
+- Maintain order of message consumption from a topic for each subscriber
 
 Run:
-Use the demo class and verify if the messages are consumed by each subscription ID in order from both publishers.
+
+
+- Use the demo class and verify if the messages are consumed by each subscription ID in order from both publishers.
 
 Demo output:
+
 
 Subscriber subscriber1 subscribed to topic SportsTopic with subscription id 0a8a8360-9b0a-4cd2-8824-ea448c5f0773
 Subscriber subscriber2 subscribed to topic SportsTopic with subscription id be426b79-b805-4a58-b2fc-f1289646d301
