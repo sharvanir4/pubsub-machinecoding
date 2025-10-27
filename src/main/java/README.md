@@ -12,7 +12,7 @@ Run:
 
 - Use the demo class and verify if the messages are consumed by each subscription ID in order from both publishers.
 
-Demo output:
+Demo output: (view the plain readme)
 
 
 Subscriber subscriber1 subscribed to topic SportsTopic with subscription id 0a8a8360-9b0a-4cd2-8824-ea448c5f0773
